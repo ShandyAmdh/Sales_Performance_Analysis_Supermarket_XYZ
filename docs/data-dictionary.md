@@ -1,3 +1,4 @@
+# Data Dictionary
 
 | Column  Name   | Data Type | Description               | Example    |
 | -------------- | --------- | ------------------------- | ---------- |
